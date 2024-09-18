@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on determining key aquifer/aquitard properties through the joint analysis of InSAR data and hydraulic head records 
 
-- 🤝 I’m looking for help with further developing my groundwater flow models in the MODFLOW environment 
+- 🤝 I’m looking for collaborators interested in further developing my groundwater flow models in the MODFLOW environment 
 
 - 💬 Ask me about my favorite experience while conducting field work or for access to my InSAR processing codes
 
